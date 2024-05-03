@@ -1,0 +1,26 @@
+.input{
+    background-color: inherit;
+    border-radius: 43px;
+    border: none;
+    /* margin: 9px; */
+    width: 68%;
+    height: 60px;
+    padding-left: 3px;
+    color: white;
+    font-family: inherit;
+}
+.button{
+    background-color: #E3B748;
+    border-radius: 43px;
+    height: 60px;
+    width: 30%;
+    margin-top: 2px;
+    border: 0px;
+    font-weight: 600;
+    /* padding: 0; */
+    cursor: pointer;
+    font-family: inherit;
+}
+.input:focus{
+    outline: none;
+}
