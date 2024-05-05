@@ -1,0 +1,17 @@
+[
+    {
+        "img":"..//..//Assets/Icon.png",
+        "rate":98,
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor recusandae, possimus modi aperiam aliquid doloremque impedit nemo natus sint doloribus fugit consequatur deleniti omnis totam cum dolorem provident iusto. Odit?"
+    },
+    {
+        "img":"..//..//Assets/Icon.png",
+        "rate":100,
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor recusandae, possimus modi aperiam aliquid doloremque impedit nemo natus sint doloribus fugit consequatur deleniti omnis totam cum dolorem provident iusto. Odit?"
+    },
+    {
+        "img":"..//..//Assets/Icon.png",
+        "rate":100,
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor recusandae, possimus modi aperiam aliquid doloremque impedit nemo natus sint doloribus fugit consequatur deleniti omnis totam cum dolorem provident iusto. Odit?"
+    }
+]
